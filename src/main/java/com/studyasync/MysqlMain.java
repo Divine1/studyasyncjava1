@@ -8,7 +8,7 @@ import java.sql.*;
 import java.util.concurrent.ExecutionException;
 
 // https://dev.mysql.com/doc/x-devapi-userguide/en/devapi-users-introduction.html
-public class Main {
+public class MysqlMain {
     public static void main(String[] args) throws SQLException {
 
         //MysqlOld.run();
